@@ -1,0 +1,23 @@
+.container{
+    flex-wrap: nowrap;
+    background-color: #f5fffa;
+}
+
+.perfil{
+    width: fit-content;
+    font-weight: normal;
+    font-family: "Helvetica Neue";
+    font-size: 25px;
+}
+
+.img{
+    border-radius: 60%;
+    border-style: groove;
+    height: 50px;
+    width: 50px;
+}
+
+.editUser{
+    font-family: "Helvetica Neue";
+    color:dimgrey;
+}
